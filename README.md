@@ -1,6 +1,12 @@
 # Markdown Previewer
 
+<p align="center">
+  <a href="https://cmpq2v.csb.app/">
+<img src="./markdown-preview.jpg" width="90%"></a></p>
+
 This project is a Markdown Previewer app built using React, fulfilling the user stories and requirements from the FreeCodeCamp "Build a Markdown Previewer" project.
+
+You can access the live version of this project [here](https://cmpq2v.csb.app/).
 
 ## Table of Contents
 
@@ -10,7 +16,6 @@ This project is a Markdown Previewer app built using React, fulfilling the user 
 - [Technologies Used](#technologies-used)
 - [Installation and Usage](#installation-and-usage)
 - [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 ## Objective
@@ -50,10 +55,6 @@ The objective of this project was to create an app that allows users to enter Ma
 ## Live Demo
 
 You can view the live demo of the Markdown Previewer here: [Markdown Previewer Live Demo](https://cmpq2v.csb.app/)
-
-## Screenshots
-
-![Markdown Previewer Screenshot](./markdown-preview.jpg)
 
 ## Acknowledgements
 
